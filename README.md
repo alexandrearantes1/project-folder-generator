@@ -1,4 +1,4 @@
-# project_folder_generator
+# project-folder-generator
 
 This script generates a simple Node.js project folder, runs npm init -y and install Express, EJS and Mongoose modules.
 To use the script simply place it in the root folder where you want the Project Folder to be created and run the following command:
